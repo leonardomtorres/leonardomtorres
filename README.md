@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou Leonardo
 
 💻 Estudando e desenvolvendo projetos em **Dados e Cloud**
-📊 Foco em **Python - Pandas, SQL, Power BI e AWS**
-🚀 Em evolução para atuar como **Analista de Dados / Engenheiro de Dados**
+ Foco em **Python - Pandas, SQL, Power BI e AWS**
+ Em evolução para atuar como **Analista de Dados / Engenheiro de Dados**
 
 ---
 
