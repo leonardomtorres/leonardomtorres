@@ -1,12 +1,11 @@
 # 👋 Olá, eu sou Leonardo
 
 💻 Estudando e desenvolvendo projetos em **Dados e Cloud**
-📊 Foco em **Python, SQL, Pandas e AWS**
+📊 Foco em **Python - Pandas, SQL, Power BI e AWS**
 🚀 Em evolução para atuar como **Analista de Dados / Engenheiro de Dados**
 
 ---
 
-## 🛠️ Tecnologias que utilizo
 
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,py,mysql,git,vscode,notion)](https://skillicons.dev)
 
