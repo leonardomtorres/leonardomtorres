@@ -11,12 +11,14 @@
 
 ---
 
-## 📚 Atualmente estudando
+📚 Atualmente estudando e aplicando na prática:
 
-- Manipulação e análise de dados com **Pandas**
-- Consultas e modelagem com **SQL**
-- Serviços cloud na **AWS**
-- Pipeline e automação de dados
+* Análise e manipulação de dados com Python (Pandas, NumPy)
+* Consultas, modelagem e otimização com SQL
+* Computação em nuvem com AWS (S3, Athena, Lambda, Glue)
+* Construção de pipelines de dados (ETL/ELT)
+* Automação de processos e tratamento de dados
+* Visualização de dados com Power BI 
 
 ---
 
