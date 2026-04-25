@@ -8,7 +8,7 @@
 
 ## 🛠️ Tecnologias que utilizo
 
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,py,mysql,vscode,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,py,mysql,git,vscode,notion)](https://skillicons.dev)
 
 ---
 
