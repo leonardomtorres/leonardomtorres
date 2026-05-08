@@ -1,5 +1,5 @@
 👋 Olá, eu sou Leonardo  
-💻 Profissional na área de Dados.  
+💻 Profissional na área de Dados    
 📊 Atuando com Python (Pandas), SQL, Docker, Power BI e serviços AWS  
 🚀 Focado em oportunidades como Analista de Dados / Engenheiro de Dados, com ênfase em projetos práticos e pipelines de dados  
 
