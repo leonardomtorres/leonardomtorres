@@ -13,7 +13,8 @@
 📚 Atualmente estudando e aplicando na prática:
 
 * Análise e manipulação de dados com Python (Pandas, NumPy)
-* Consultas, modelagem e otimização com SQL
+* Consultas, modelagem e otimização com SQL  
+* Conteinerização de aplicações e ambientes com Docker e Docker Compose
 * Computação em nuvem com AWS (S3, Athena, Lambda, Glue)
 * Construção de pipelines de dados (ETL/ELT)
 * Automação de processos e tratamento de dados
