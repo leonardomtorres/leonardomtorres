@@ -1,6 +1,6 @@
-👋 Olá, eu sou Leonardo
-📊 Analista de Dados em transição para Engenharia de Dados
-🔄 Background em análise com Excel, hoje mergulhado em Python, SQL, Docker e AWS
+👋 Olá, eu sou Leonardo  
+📊 Analista de Dados em transição para Engenharia de Dados  
+🔄 Background em análise com Excel, hoje mergulhado em Python, SQL, Docker e AWS  
 🎯 Construindo projetos práticos com foco em pipelines de dados e ETL/ELT 
 
 
@@ -40,7 +40,7 @@
   <img src="https://skillicons.dev/icons?i=git,vscode,notion" />
 </p>
 
----
+
 
 ## ⚡ Stack em uso
 
