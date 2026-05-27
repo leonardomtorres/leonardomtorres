@@ -27,7 +27,7 @@
 
 <!-- Ícones bonitos (Skill Icons) -->
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,python,docker,git,vscode,notion" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,python,mysql,docker,git,vscode,notion" />
 </p>
 
 <!-- Shields.io para o restante -->
