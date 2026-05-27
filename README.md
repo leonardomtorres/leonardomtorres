@@ -3,7 +3,7 @@
 📊 Atuando com Python (Pandas), SQL, Docker, Power BI e serviços AWS  
 🚀 Focado em oportunidades como Analista de Dados / Engenheiro de Dados, com ênfase em projetos práticos e pipelines de dados  
 
-🛠️ Tecnologias & Ferramentas
+🛠️ Tecnologias & Ferramentas  
 ☁️ Cloud & Infraestrutura
 <p>
   <img src="https://skillicons.dev/icons?i=aws,azure,docker" />
