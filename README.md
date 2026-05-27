@@ -5,7 +5,6 @@
 
 
 
-## 🛠️ Tecnologias & Ferramentas
 
 ### ☁️ Cloud & Infraestrutura
 <p>
