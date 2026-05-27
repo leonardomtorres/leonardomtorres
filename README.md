@@ -6,7 +6,7 @@
 ---
 
 
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,py,mysql,airflow,dbt,docker,git,vscode,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,py,mysql,docker,git,vscode,notion)](https://skillicons.dev)
 
 ---
 
