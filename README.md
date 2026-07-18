@@ -1,6 +1,5 @@
 👋 Olá, eu sou Leonardo  
-📊 Analista de Dados em transição para Engenharia de Dados  
-🔄 Background em análise com Excel, hoje mergulhado em Python, SQL, Docker e AWS  
+📊 Engenheiro de Dados  
 🎯 Construindo projetos práticos com foco em pipelines de dados e ETL/ELT 
 
 
