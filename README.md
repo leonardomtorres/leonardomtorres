@@ -1,5 +1,5 @@
-👋 Olá, eu sou Leonardo
-📊 Dados & IA | Pipelines, Analytics e Machine Learning
+👋 Olá, eu sou Leonardo  
+📊 Dados & IA | Pipelines, Analytics e Machine Learning  
 🎯 Construindo projetos práticos com foco em pipelines de dados, ETL/ELT e modelos de ML
 
 
