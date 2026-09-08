@@ -65,12 +65,6 @@ ETL/ELT, modelagem, orquestração e arquiteturas em AWS.
 - Microsoft Azure Fundamentals (AZ-900)
 
 
-## 📚 Atualmente estudando
-
-**AWS Data Engineering | Python | SQL | Arquitetura de Dados**
-
-Aprofundando conhecimentos em Engenharia de Dados e arquiteturas AWS, com foco na certificação AWS Certified Data Engineer – Associate.
-
 
 ## 📫 Contato
 
