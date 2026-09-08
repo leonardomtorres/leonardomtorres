@@ -2,8 +2,7 @@
 
 💻 Data Engineer | AWS | Python | SQL | Spark | Airflow | dbt
 
-🚀 Construindo projetos práticos de Engenharia de Dados com foco em pipelines,
-ETL/ELT, modelagem, orquestração e arquiteturas em AWS.
+🚀 Construindo soluções práticas de Engenharia de Dados com foco em pipelines, ETL/ELT, modelagem, orquestração e arquiteturas em AWS.
 
 
 
