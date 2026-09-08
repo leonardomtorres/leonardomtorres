@@ -43,10 +43,15 @@ ETL/ELT, modelagem, orquestração e arquiteturas em AWS.
 
 ## ⚡ Stack em uso
 
-- Análise e manipulação de dados com Python (Pandas, NumPy)
-- Consultas, modelagem e otimização com SQL
-- Conteinerização de aplicações e ambientes com Docker e Docker Compose
-- Computação em nuvem com AWS (S3, Athena, Lambda, Glue)
-- Construção de pipelines de dados (ETL/ELT)
-- Automação de processos e tratamento de dados
-- Visualização de dados com Power BI e Streamlit
+- Desenvolvimento e automação com Python
+- Consultas, transformação e modelagem de dados com SQL
+- Processamento distribuído com Spark / PySpark
+- Construção de pipelines ETL/ELT
+- Orquestração de pipelines com Apache Airflow
+- Transformação e modelagem analítica com dbt
+- Data Lake e processamento em AWS com S3, Glue e Athena
+- Data Warehouse com Amazon Redshift
+- Automações serverless com AWS Lambda
+- Monitoramento com CloudWatch e controle de acesso com IAM
+- Containerização com Docker
+- Versionamento de código com Git e GitHub
