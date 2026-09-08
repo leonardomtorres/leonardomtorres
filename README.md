@@ -11,9 +11,7 @@ ETL/ELT, modelagem, orquestração e arquiteturas em AWS.
 ### ☁️ Cloud & Infraestrutura
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+
 
 ### 🐍 Linguagens & Dados
 <p>
