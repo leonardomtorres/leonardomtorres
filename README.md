@@ -55,3 +55,23 @@ ETL/ELT, modelagem, orquestração e arquiteturas em AWS.
 - Monitoramento com CloudWatch e controle de acesso com IAM
 - Containerização com Docker
 - Versionamento de código com Git e GitHub
+
+
+
+## 🎓 Certificações
+
+- AWS Certified Cloud Practitioner
+- Astronomer Certification for Apache Airflow 3 Fundamentals
+- Microsoft Azure Fundamentals (AZ-900)
+
+
+## 📚 Atualmente estudando
+
+**AWS Data Engineering | Python | SQL | Arquitetura de Dados**
+
+Aprofundando conhecimentos em Engenharia de Dados e arquiteturas AWS, com foco na certificação AWS Certified Data Engineer – Associate.
+
+
+## 📫 Contato
+
+[LinkedIn](https://www.linkedin.com/in/leonardomarchettitorres/) • [GitHub](https://github.com/leonardomtorres)
