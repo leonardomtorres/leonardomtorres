@@ -1,13 +1,16 @@
-👋 Olá, eu sou Leonardo  
-📊 Dados & IA | Pipelines, Analytics e Machine Learning  
-🎯 Construindo projetos práticos com foco em pipelines de dados, ETL/ELT e modelos de ML
+👋 Olá, eu sou Leonardo
+
+💻 Data Engineer | AWS | Python | SQL | Spark | Airflow | dbt
+
+🚀 Construindo projetos práticos de Engenharia de Dados com foco em pipelines,
+ETL/ELT, modelagem, orquestração e arquiteturas em AWS.
 
 
 
 
 ### ☁️ Cloud & Infraestrutura
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker" />
+  <img src="https://skillicons.dev/icons?i=aws,docker" />
   &nbsp;
   <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
