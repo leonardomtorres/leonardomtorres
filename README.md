@@ -5,8 +5,8 @@ Analista de Dados vindo de operações e logística. Uso dados para apoiar decis
 ## Projetos em destaque
 
 - **B3 Pipeline (Databricks):** 
-- **Diesel Radar:** [Reduzi 5% do consumo de Diesel da empresa com ingestão da ANP]
-- **Pipeline Cripto:** 
+- **Diesel Radar:** onde abastecer para gastar menos em cada rota? Análise do preço do diesel por posto e sentido da viagem, que reduziu cerca de 5% o custo de combustível das viagens analisadas. Estou automatizando a análise em um pipeline com dados da ANP.
+
 
 ## Stack
 
