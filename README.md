@@ -4,10 +4,9 @@ Analista de Dados vindo de operações e logística. Uso dados para apoiar decis
 
 ## Projetos em destaque
 
-- **B3 Pipeline (Databricks):** [uma frase: o que ele responde]
-- **Diesel Radar:** [uma frase: o problema e o resultado]
-- **Pipeline com dbt:** [uma frase]
-- **Pipeline Cripto:** [uma frase]
+- **B3 Pipeline (Databricks):** 
+- **Diesel Radar:** [Reduzi 5% do consumo de Diesel da empresa com ingestão da ANP]
+- **Pipeline Cripto:** 
 
 ## Stack
 
