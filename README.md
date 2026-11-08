@@ -1,70 +1,25 @@
-👋 Olá, eu sou Leonardo
+👋 Olá, eu sou o Leonardo
 
-💻 Data Engineer | AWS | Python | SQL | Spark | Airflow | dbt
+Analista de Dados vindo de operações e logística. Uso dados para apoiar decisões de custo e operação, e construo a parte técnica por trás da análise: modelagem, pipelines e lakehouse. Tenho interesse especial pelo mercado financeiro.
 
-🚀 Construindo soluções práticas de Engenharia de Dados com foco em pipelines, ETL/ELT, modelagem, orquestração e arquiteturas em AWS.
+## Projetos em destaque
 
+- **B3 Pipeline (Databricks):** [uma frase: o que ele responde]
+- **Diesel Radar:** [uma frase: o problema e o resultado]
+- **Pipeline com dbt:** [uma frase]
+- **Pipeline Cripto:** [uma frase]
 
+## Stack
 
+**Principal:** SQL | Power BI | Python | Pandas | PySpark | Databricks | Git/GitHub
+**Também conheço:** dbt | Airflow | AWS | Azure | Docker
 
-### ☁️ Cloud & Infraestrutura
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker" />
-
-
-### 🐍 Linguagens & Dados
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  
-
-### ⚙️ Engenharia de Dados
-<p>
-  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
-</p>
-
-### 📊 Visualização & Aplicações
-<p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-</p>
-
-### 🧰 Ferramentas
-<p>
-  <img src="https://skillicons.dev/icons?i=git,vscode,notion" />
-</p>
-
-
-
-## ⚡ Stack em uso
-
-- Desenvolvimento e automação com Python
-- Consultas, transformação e modelagem de dados com SQL
-- Processamento distribuído com Spark / PySpark
-- Construção de pipelines ETL/ELT
-- Orquestração de pipelines com Apache Airflow
-- Transformação e modelagem analítica com dbt
-- Data Lake e processamento em AWS com S3, Glue e Athena
-- Data Warehouse com Amazon Redshift
-- Automações serverless com AWS Lambda
-- Monitoramento com CloudWatch e controle de acesso com IAM
-- Containerização com Docker
-- Versionamento de código com Git e GitHub
-
-
-
-## 🎓 Certificações
+## Certificações
 
 - AWS Certified Cloud Practitioner
-- Astronomer Certification for Apache Airflow 3 Fundamentals
 - Microsoft Azure Fundamentals (AZ-900)
+- Astronomer Certification for Apache Airflow 3 Fundamentals
 
+## Contato
 
-
-## 📫 Contato
-
-[LinkedIn](https://www.linkedin.com/in/leonardomarchettitorres/) • [GitHub](https://github.com/leonardomtorres)
+[LinkedIn](https://linkedin.com/in/leonardomarchettitorres)
