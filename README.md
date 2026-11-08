@@ -11,7 +11,7 @@ Analista de Dados vindo de operações e logística. Uso dados para apoiar decis
 
 ## Stack
 
-**Principal:** SQL | Power BI | Python | Pandas | PySpark | Databricks | Git/GitHub
+**Principal:** SQL | Power BI | Python | Pandas | PySpark | Databricks | Git/GitHub  
 **Também conheço:** dbt | Airflow | AWS | Azure | Docker
 
 ## Certificações
